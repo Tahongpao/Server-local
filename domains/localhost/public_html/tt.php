@@ -9,4 +9,5 @@ outetr(3);
 
 die ("Good bay!");
 echo "Hi!";
+echo "Hi, Git!";
 ?>
