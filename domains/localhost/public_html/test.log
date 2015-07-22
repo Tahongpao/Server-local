@@ -1,0 +1,71 @@
+
+[2015-05-30_12:18:09 test0] Hello!
+[2015-05-30_12:18:09 test1] Hello!
+[2015-05-30_12:18:09 test2] Hello!
+[2015-05-30_12:18:09 test3] Hello!
+[2015-05-30_12:18:09 test4] Hello!
+[2015-05-30_12:18:09 test5] Hello!
+[2015-05-30_12:18:09 test6] Hello!
+[2015-05-30_12:18:09 test7] Hello!
+[2015-05-30_12:18:09 test8] Hello!
+[2015-05-30_12:18:09 test9] Hello!
+[2015-05-30_12:23:38 test0] ### __construct() called!
+[2015-05-30_12:23:38 test0] Hello!
+[2015-05-30_12:23:38 test0] ### __destruct() called!
+[2015-05-30_12:23:38 test1] ### __construct() called!
+[2015-05-30_12:23:38 test1] Hello!
+[2015-05-30_12:23:38 test1] ### __destruct() called!
+[2015-05-30_12:23:38 test2] ### __construct() called!
+[2015-05-30_12:23:38 test2] Hello!
+[2015-05-30_12:23:38 test2] ### __destruct() called!
+[2015-05-30_12:23:38 test3] ### __construct() called!
+[2015-05-30_12:23:38 test3] Hello!
+[2015-05-30_12:23:38 test3] ### __destruct() called!
+[2015-05-30_12:23:38 test4] ### __construct() called!
+[2015-05-30_12:23:38 test4] Hello!
+[2015-05-30_12:23:38 test4] ### __destruct() called!
+[2015-05-30_12:23:38 test5] ### __construct() called!
+[2015-05-30_12:23:38 test5] Hello!
+[2015-05-30_12:23:38 test5] ### __destruct() called!
+[2015-05-30_12:23:38 test6] ### __construct() called!
+[2015-05-30_12:23:38 test6] Hello!
+[2015-05-30_12:23:38 test6] ### __destruct() called!
+[2015-05-30_12:23:38 test7] ### __construct() called!
+[2015-05-30_12:23:38 test7] Hello!
+[2015-05-30_12:23:38 test7] ### __destruct() called!
+[2015-05-30_12:23:38 test8] ### __construct() called!
+[2015-05-30_12:23:38 test8] Hello!
+[2015-05-30_12:23:38 test8] ### __destruct() called!
+[2015-05-30_12:23:38 test9] ### __construct() called!
+[2015-05-30_12:23:38 test9] Hello!
+[2015-05-30_12:23:38 test9] ### __destruct() called!
+[2015-06-08_09:46:32 test0] Hello!
+[2015-06-08_09:46:32 test1] Hello!
+[2015-06-08_09:46:32 test2] Hello!
+[2015-06-08_09:46:32 test3] Hello!
+[2015-06-08_09:46:32 test4] Hello!
+[2015-06-08_09:46:32 test5] Hello!
+[2015-06-08_09:46:32 test6] Hello!
+[2015-06-08_09:46:32 test7] Hello!
+[2015-06-08_09:46:32 test8] Hello!
+[2015-06-08_09:46:32 test9] Hello!
+[2015-06-08_09:55:55 test] ### __construct() called!
+[2015-06-08_09:55:55 test] Obichnoe massage
+[2015-06-08_09:55:55 test] [at Inherit0.php line 6]
+[2015-06-08_09:55:55 test] ### __destruct() called!
+[2015-06-08_09:56:29 test] ### __construct() called!
+[2015-06-08_09:56:29 test] Obichnoe massage
+[2015-06-08_09:56:29 test] [at Inherit0.php line 6]
+[2015-06-08_09:56:29 test] ### __destruct() called!
+[2015-06-08_09:56:30 test] ### __construct() called!
+[2015-06-08_09:56:30 test] Obichnoe massage
+[2015-06-08_09:56:30 test] [at Inherit0.php line 6]
+[2015-06-08_09:56:30 test] ### __destruct() called!
+[2015-06-08_09:56:31 test] ### __construct() called!
+[2015-06-08_09:56:31 test] Obichnoe massage
+[2015-06-08_09:56:31 test] [at Inherit0.php line 6]
+[2015-06-08_09:56:31 test] ### __destruct() called!
+[2015-06-08_09:56:32 test] ### __construct() called!
+[2015-06-08_09:56:32 test] Obichnoe massage
+[2015-06-08_09:56:32 test] [at Inherit0.php line 6]
+[2015-06-08_09:56:32 test] ### __destruct() called!
