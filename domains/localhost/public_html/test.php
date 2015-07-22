@@ -7,5 +7,5 @@ echo "branch master";
 
 drfdfgb
 edfgd
-f
+fflush
 ?>
